@@ -1,0 +1,3 @@
+TYPE supl:asm
+MOV 1,B
+MOV 0,A
