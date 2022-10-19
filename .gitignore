@@ -1,0 +1,7 @@
+*.bgc
+*.tgc
+.config
+venv
+replit.nix
+.upm
+*.lock
